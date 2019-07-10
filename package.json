@@ -25,7 +25,8 @@
   },
   "homepage": "https://github.com/xgfe/react-native-datepicker#readme",
   "dependencies": {
-    "moment": "^2.22.0"
+    "moment": "^2.22.0",
+    "rn-datepicker-nougat-spinner-fix": "git+https://github.com/nustechnology/rn-datepicker-nougat-spinner-fix.git#develop"
   },
   "devDependencies": {
     "babel-core": "^6.5.2",
